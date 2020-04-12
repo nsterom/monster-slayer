@@ -1,3 +1,7 @@
-.life-bar {
-    border: 1px solid black;
+.blue-background {
+    background-color: blue;
+}
+
+.yellow-background {
+    background-color: yellow;
 }
